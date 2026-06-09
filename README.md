@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá, eu sou o Pedro Henrique 👋
 
-<!--
-**pedrohenriiz/pedrohenriiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Software com mais de 5 anos de experiência no desenvolvimento de aplicações web e mobile.
 
-Here are some ideas to get you started:
+Especializado em **React**, **React Native**, **TypeScript** e **Node.js**, com foco na construção de sistemas escaláveis, experiência do usuário e arquitetura de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+- 🧑‍💻 Desenvolvedor Full-Stack JavaScript/TypeScript.
+- 🎓 Bacharelado em Tecnologia da Informação.
+- 🧑‍🎓 MBA em Engenharia de Software.
+- ⚡ Atualmente estou aprofundando meus conhecimentos em **Next.js** e **Nest.js**.
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriquedeveloper/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohsm.dev@gmail.com)
