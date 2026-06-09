@@ -2,7 +2,7 @@
 
 Engenheiro de Software com mais de 5 anos de experiência no desenvolvimento de aplicações web e mobile.
 
-Especializado em **React**, **React Native**, **TypeScript** e **Node.js**, com foco na construção de sistemas escaláveis, experiência do usuário e arquitetura de software.
+Especializado em **TypeScript**, **React**, **React Native** e **Node.js**, com foco na construção de sistemas escaláveis, experiência do usuário e arquitetura de software.
 
 ## 🚀 Sobre Mim
 - 🧑‍💻 Desenvolvedor Full-Stack JavaScript/TypeScript.
