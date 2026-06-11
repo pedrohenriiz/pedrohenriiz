@@ -1,4 +1,4 @@
-### Olá, eu sou o Pedro Henrique 👋
+### Olá! 👋
 
 Engenheiro de Software com mais de 5 anos de experiência no desenvolvimento de aplicações web e mobile.
 
